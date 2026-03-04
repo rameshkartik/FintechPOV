@@ -2,7 +2,7 @@
 
 ## RDEData
 title : FintechPlatformPOV 
-description : na
+description :  A comprehensive cloud security framework tailored for FinTech platforms, covering identity management, data protection, threat detection, and regulatory compliance. 
 category : pov
 sdlcStage : plan
 personas : ['CTO','Architect','Azure Cloud']
