@@ -21,10 +21,14 @@ const app = new FPP({ config: './config.json', environment: 'production' });
 await app.initialize(); app.start();
 
 ## RDE_Asset_MetaData
-version: 3.12 creator: Core Team owner: Vijay mallaya
+version: 3.12 
+creator: Core Team
+owner: Vijay mallaya
 
 ## RDE_Details_Tech_Spec
-Language : Python 3.9+ Framework : FastAPI / Django Dependencies : pandas, asyncio, pydantic License : MIT
+Language : Python 3.9+
+Framework : FastAPI / Django
+Dependencies : pandas, asyncio, pydantic License : MIT
 
 ## RDE_Details_Overview
 Cloud computing has fundamentally transformed how FinTech platforms build, deploy, and manage their digital infrastructure. 
@@ -32,7 +36,10 @@ While the cloud offers unparalleled agility, scalability, and cost-efficiency, i
 that demands a purpose-built security strategy.
 
 ## RDE_Details_Keypoints
-Production Ready, Fully Documented, Active Support, CI/CD Integrated
+Production Ready,
+Fully Documented, 
+Active Support,
+CI/CD Integrated
 
 ## RDE_POV_Executive_Summary
 Subtitle : FinTech Platform POV Overview
