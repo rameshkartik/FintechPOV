@@ -3,6 +3,12 @@
 ## RDEData
 title : FintechPlatformPOV 
 description : na
+category : pov
+sdlcStage : plan
+personas : ['CTO','Architect','Azure Cloud']
+tags : ['AI','Cloud']
+metadata: { capability: 'Storage Solution', integrationType: 'Semantic Search', scope: 'Multi-Service Deployments' }
+previewCodeFileName : na
 
 ## RDE_UsageGuide_Install
 command : npm install @reinvention/fintech
